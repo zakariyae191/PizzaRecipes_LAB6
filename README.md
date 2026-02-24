@@ -1,4 +1,9 @@
-# LAB 6: Pizza Recipes Android Application 🍕
+
+# # LAB 6: Pizza Recipes Android Application 🍕
+
+https://github.com/user-attachments/assets/93d036c4-06fb-4168-8f9e-6730f231c80b
+
+
 
 ##  1. Objectif du TP
 Le but de ce TP est de développer une application Android en Java permettant d’afficher une liste de pizzas avec leurs informations et d’accéder à un écran de détails.
